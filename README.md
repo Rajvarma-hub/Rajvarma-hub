@@ -24,6 +24,14 @@
 ---
 
 ## 🚀 Featured Projects
+### 🛠️ FixEasy – On-Demand Home Services Platform
+- FastAPI-based scalable backend supporting customer, worker, and admin workflows
+- Event-driven job processing using Kafka with real-time WebSocket updates
+- Custom MCP server with an embedded AI agent to manage service requests via chat
+- Secure OAuth2 + JWT authentication with Redis-based OTP verification
+- Containerized and deployed on AWS (EC2, RDS, S3, IAM, VPC) using Docker
+
+🔗 https://github.com/Rajvarma-hub/Fix_Easy
 
 ### 💰 AI Expense Management Chatbot
 - LangChain + Gemini 2.5 Flash
